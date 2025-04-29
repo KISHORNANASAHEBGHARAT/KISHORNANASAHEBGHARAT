@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main() 
+{
 
   float gs,bs,ta,hra;
   printf("Enter Basic Salary = \t");
