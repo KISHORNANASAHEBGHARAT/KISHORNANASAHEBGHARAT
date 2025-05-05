@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main()
+ {
 
   int num1=2, num2=4, sum;
   sum= num1+num2;
